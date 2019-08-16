@@ -2,8 +2,8 @@ Add your answers to the Algorithms exercises here.
 
 Exercisee 1
 a) O(n)
-b) O(n^4)
-c) O(1^n)
+b) O(n^3)
+c) O(n)
 
 Exercisee 2
 
